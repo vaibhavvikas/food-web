@@ -1,0 +1,76 @@
+source,dest
+Shrimp,Arapaima
+Detritus,Arapaima
+Detritus,Shrimp
+Detritus,Pirahna
+Shrimp,Pirahna
+Shrimp,Arowana
+Shrimp,Electric Eel
+Zooplankton,Giant Catfish
+Zooplankton,Neon Tetras
+Shrimp,Neon Tetras
+Detritus,Neon Tetras
+Sloth,Anaconda
+Anaconda,Caiman
+Giant Catfish,Caiman
+Sloth,Boa Constrictor
+Zooplankton,Bushmaster
+Zooplankton,Lancehead
+Shrimp,Lancehead
+Giant Catfish,Lancehead
+Kingfishers,Emerald tree Boa
+Plants,Hoatzin
+Plants,Macaws
+Sloth,Harpy Eagle
+Macaws,Harpy Eagle
+Iguanas,Harpy Eagle
+Plants,Toucans
+Grasshopper,Antbirds
+Insects,Kingfishers
+Plants,Parakeets
+Plants,Flycatchers
+Plants,Woodpeckers
+Insects,Tanagers
+Insects,Manakins
+Insects,Guans
+Zooplankton,Storks
+Plants,Hummingbirds
+Insects,Oropendola
+Sloth,Jaguar
+Capuchin Monkey,Jaguar
+Deer,Jaguar
+Deer,Puma
+Sloth,Puma
+Capybara,Puma
+Plants,Capybara
+Plants,Sloth
+Giant Catfish,Giant River Otter
+Zooplankton,Giant River Otter
+Shrimp,Giant River Otter
+Insects,Giant Anteater
+Insects,Tamarins
+Plants,Spider Monkey
+Plants,Wolly Monkey
+Insects,Wolly Monkey
+Plants,Capuchin Monkey
+Woodpeckers,Capuchin Monkey
+Plants,Howler Monkey
+Woodpeckers,Howler Monkey
+Shrimp,Amazon pink river Dolphin
+Giant Catfish,Amazon pink river Dolphin
+Zooplankton,Amazon pink river Dolphin
+Plants,Tapir
+Insects,Coatimundi
+Plants,Paca
+Plants,Agouti
+Insects,Agouti
+Insects,Kinkajou
+Plants,Kinkajou
+Plants,Green Iguanas
+Zooplankton,Giant South American River Turtle
+Zooplankton,Yellow-spotted River Turtle
+Detritus,Yellow-spotted River Turtle
+Plants,Iguanas
+Insects,Poison Dart Frog
+Zooplankton,Poison Dart Frog
+Plants,Deer
