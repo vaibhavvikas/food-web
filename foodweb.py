@@ -159,7 +159,7 @@ def onClick():
 if __name__ == "__main__":
     root = tk.Tk()
     root.title("Food Web")
-    root.geometry("1080x300")
+    root.geometry("1080x400")
 
     tk.Label(root, text = "Food Web", font = "Bold 14").place(relx = 0.5, y = 0)
 
@@ -201,38 +201,38 @@ if __name__ == "__main__":
     food2 = tk.StringVar(root)
     food2.set("None")
     popupMenu2 = Combobox(root, textvariable=food2, values=choices)
-    popupMenu2.place(x = 300, y = 90)
+    popupMenu2.place(x = 350, y = 90)
     tk.Scrollbar(popupMenu, orient="vertical")
 
     food3 = tk.StringVar(root)
     food3.set("None")
     popupMenu3 = Combobox(root, textvariable=food3, values=choices)
-    popupMenu3.place(x = 450, y = 90)
+    popupMenu3.place(x = 550, y = 90)
     tk.Scrollbar(popupMenu, orient="vertical")        
         
     button = tk.Button(root,text = "Add Species", command = onClick)
     button.place(x=150, y=120)
 
-    tk.Label(root, text = "Forest Fires:", font = "Bold, 10").place(x = 0, y = 150)
+    tk.Label(root, text = "Forest Fires:", font = "Bold, 10").place(x = 0, y = 175)
     editSpecies = tk.StringVar(root)
     editSpecies.set("None")
     popupMenu2 = Combobox(root, textvariable=editSpecies, values=choices)
-    popupMenu2.place(x = 100, y = 150)
+    popupMenu2.place(x = 100, y = 175)
     tk.Scrollbar(popupMenu, orient="vertical")
-    tk.Label(root, text = "Death Count:", font = "Bold, 10").place(x = 275, y = 150)
+    tk.Label(root, text = "Death Count:", font = "Bold, 10").place(x = 285, y = 175)
     sred = tk.StringVar()
     e3 = tk.Entry(root, textvariable=sred)
-    e3.place(x = 375, y = 150)
+    e3.place(x = 375, y = 175)
     button = tk.Button(root,text = "Add Accident", command = editGraph)
-    button.place(x=100, y=180)
+    button.place(x=100, y=200)
 
 
-    tk.Label(root, text = "Graph Represent:", font = "Bold, 10").place(x = 0, y = 220)
+    tk.Label(root, text = "Graph Represent:", font = "Bold, 10").place(x = 0, y = 250)
     button = tk.Button(root,text = "Print Graph", command = showTheGraph)
-    button.place(x=150, y=220)
-
-    tk.Label(root, text = "Forward 1 year:", font = "Bold, 10").place(x = 0, y = 250)
-    button = tk.Button(root,text = "Print Graph", command = forwardGraph)
     button.place(x=150, y=250)
+
+    tk.Label(root, text = "Forward 1 year:", font = "Bold, 10").place(x = 0, y = 300)
+    button = tk.Button(root,text = "Print Graph", command = forwardGraph)
+    button.place(x=150, y=300)
 
     root.mainloop()
