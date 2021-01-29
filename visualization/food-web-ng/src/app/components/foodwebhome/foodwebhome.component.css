@@ -1,0 +1,8 @@
+.form-animal-select {
+  flex: 1 1 auto;
+  margin: 20px;
+}
+
+::ng-deep .mat-select-panel {
+  max-height: 40vh !important;
+}

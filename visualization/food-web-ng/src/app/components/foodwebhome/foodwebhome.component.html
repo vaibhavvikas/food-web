@@ -1,0 +1,14 @@
+<div class="form-animal-select">
+    <h3>Add Species</h3>
+    <mat-form-field appearance="fill">
+      <mat-label>Favorite Animal</mat-label>
+      <mat-select disableOptionCentering [(ngModel)]="selectedValue" name="nodes">
+        <mat-option *ngFor="let node of nodes" [value]="node.id">
+          {{node.id}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+    <p> Selected food: {{selectedValue}} </p>
+
+  <button mat-button (click)="openDialog()">Open Screen</button>
+</div>

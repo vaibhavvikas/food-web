@@ -1,0 +1,338 @@
+[
+    {
+        "id": "Detritus",
+        "trophic_level": 1,
+        "count": 35462,
+        "growth_rate": 1.4
+    },
+    {
+        "id": "Zooplankton",
+        "trophic_level": 1,
+        "count": 42563,
+        "growth_rate": 1.35
+    },
+    {
+        "id": "Plants",
+        "trophic_level": 1,
+        "count": 56984,
+        "growth_rate": 1.4
+    },
+    {
+        "id": "Insects",
+        "trophic_level": 1,
+        "count": 75964,
+        "growth_rate": 1.3
+    },
+    {
+        "id": "Shrimp",
+        "trophic_level": 2,
+        "count": 68459,
+        "growth_rate": 1.2
+    },
+    {
+        "id": "Tanagers",
+        "trophic_level": 2,
+        "count": 25980,
+        "growth_rate": 1.2
+    },
+    {
+        "id": "Manakins",
+        "trophic_level": 2,
+        "count": 12568,
+        "growth_rate": 1.3
+    },
+    {
+        "id": "Guans",
+        "trophic_level": 2,
+        "count": 13652,
+        "growth_rate": 1.2
+    },
+    {
+        "id": "Sloth",
+        "trophic_level": 2,
+        "count": 4536,
+        "growth_rate": 1.1
+    },
+    {
+        "id": "Grasshopper",
+        "trophic_level": 2,
+        "count": 70564,
+        "growth_rate": 1.4
+    },
+    {
+        "id": "Pirahna",
+        "trophic_level": 3,
+        "count": 8945,
+        "growth_rate": 1.2
+    },
+    {
+        "id": "Arowana",
+        "trophic_level": 3,
+        "count": 6845,
+        "growth_rate": 1.1
+    },
+    {
+        "id": "Electric Eel",
+        "trophic_level": 3,
+        "count": 954,
+        "growth_rate": 1.11
+    },
+    {
+        "id": "Giant Catfish",
+        "trophic_level": 3,
+        "count": 4986,
+        "growth_rate": 1.2
+    },
+    {
+        "id": "Neon Tetras",
+        "trophic_level": 3,
+        "count": 18659,
+        "growth_rate": 1.05
+    },
+    {
+        "id": "Bushmaster",
+        "trophic_level": 3,
+        "count": 3568,
+        "growth_rate": 1.3
+    },
+    {
+        "id": "Hoatzin",
+        "trophic_level": 3,
+        "count": 2169,
+        "growth_rate": 1.1
+    },
+    {
+        "id": "Macaws",
+        "trophic_level": 3,
+        "count": 3568,
+        "growth_rate": 1.2
+    },
+    {
+        "id": "Antbirds",
+        "trophic_level": 3,
+        "count": 8154,
+        "growth_rate": 1.3
+    },
+    {
+        "id": "Kingfishers",
+        "trophic_level": 3,
+        "count": 6845,
+        "growth_rate": 1.35
+    },
+    {
+        "id": "Parakeets",
+        "trophic_level": 3,
+        "count": 3569,
+        "growth_rate": 1.25
+    },
+    {
+        "id": "Flycatchers",
+        "trophic_level": 3,
+        "count": 4956,
+        "growth_rate": 1.3
+    },
+    {
+        "id": "Woodpeckers",
+        "trophic_level": 3,
+        "count": 2365,
+        "growth_rate": 1.2
+    },
+    {
+        "id": "Oropendola",
+        "trophic_level": 3,
+        "count": 1956,
+        "growth_rate": 1.15
+    },
+    {
+        "id": "Capybara",
+        "trophic_level": 3,
+        "count": 1865,
+        "growth_rate": 1.12
+    },
+    {
+        "id": "Green Iguanas",
+        "trophic_level": 3,
+        "count": 3568,
+        "growth_rate": 1.24
+    },
+    {
+        "id": "Arapaima",
+        "trophic_level": 4,
+        "count": 900,
+        "growth_rate": 1.1
+    },
+    {
+        "id": "Hummingbirds",
+        "trophic_level": 4,
+        "count": 7854,
+        "growth_rate": 1.35
+    },
+    {
+        "id": "Giant Anteater",
+        "trophic_level": 4,
+        "count": 5423,
+        "growth_rate": 1.25
+    },
+    {
+        "id": "Tamarins",
+        "trophic_level": 4,
+        "count": 2356,
+        "growth_rate": 1.2
+    },
+    {
+        "id": "Spider Monkey",
+        "trophic_level": 4,
+        "count": 4865,
+        "growth_rate": 1.3
+    },
+    {
+        "id": "Wolly Monkey",
+        "trophic_level": 4,
+        "count": 6520,
+        "growth_rate": 1.35
+    },
+    {
+        "id": "Paca",
+        "trophic_level": 4,
+        "count": 8695,
+        "growth_rate": 1.4
+    },
+    {
+        "id": "Kinkajou",
+        "trophic_level": 4,
+        "count": 4856,
+        "growth_rate": 1.4
+    },
+    {
+        "id": "Giant South American River Turtle",
+        "trophic_level": 4,
+        "count": 2135,
+        "growth_rate": 1.2
+    },
+    {
+        "id": "Iguanas",
+        "trophic_level": 4,
+        "count": 1230,
+        "growth_rate": 1.1
+    },
+    {
+        "id": "Deer",
+        "trophic_level": 4,
+        "count": 9874,
+        "growth_rate": 1.4
+    },
+    {
+        "id": "Lancehead",
+        "trophic_level": 5,
+        "count": 3568,
+        "growth_rate": 1.2
+    },
+    {
+        "id": "Emerald tree Boa",
+        "trophic_level": 5,
+        "count": 1145,
+        "growth_rate": 1.1
+    },
+    {
+        "id": "Toucans",
+        "trophic_level": 5,
+        "count": 4586,
+        "growth_rate": 1.3
+    },
+    {
+        "id": "Storks",
+        "trophic_level": 5,
+        "count": 6854,
+        "growth_rate": 1.36
+    },
+    {
+        "id": "Capuchin Monkey",
+        "trophic_level": 5,
+        "count": 4896,
+        "growth_rate": 1.26
+    },
+    {
+        "id": "Howler Monkey",
+        "trophic_level": 5,
+        "count": 3589,
+        "growth_rate": 1.34
+    },
+    {
+        "id": "Tapir",
+        "trophic_level": 6,
+        "count": 2541,
+        "growth_rate": 1.27
+    },
+    {
+        "id": "Agouti",
+        "trophic_level": 6,
+        "count": 8742,
+        "growth_rate": 1.36
+    },
+    {
+        "id": "Coatimundi",
+        "trophic_level": 6,
+        "count": 7856,
+        "growth_rate": 1.24
+    },
+    {
+        "id": "Yellow-spotted River Turtle",
+        "trophic_level": 6,
+        "count": 1253,
+        "growth_rate": 1.12
+    },
+    {
+        "id": "Poison Dart Frog",
+        "trophic_level": 6,
+        "count": 985,
+        "growth_rate": 1.09
+    },
+    {
+        "id": "Giant River Otter",
+        "trophic_level": 7,
+        "count": 1546,
+        "growth_rate": 1.14
+    },
+    {
+        "id": "Amazon pink river Dolphin",
+        "trophic_level": 7,
+        "count": 586,
+        "growth_rate": 1.08
+    },
+    {
+        "id": "Anaconda",
+        "trophic_level": 8,
+        "count": 126,
+        "growth_rate": 1.05
+    },
+    {
+        "id": "Harpy Eagle",
+        "trophic_level": 8,
+        "count": 354,
+        "growth_rate": 1.06
+    },
+    {
+        "id": "Caiman",
+        "trophic_level": 9,
+        "count": 365,
+        "growth_rate": 1.07
+    },
+    {
+        "id": "Boa Constrictor",
+        "trophic_level": 9,
+        "count": 213,
+        "growth_rate": 1.03
+    },
+    {
+        "id": "Jaguar",
+        "trophic_level": 9,
+        "count": 546,
+        "growth_rate": 1.05
+    },
+    {
+        "id": "Puma",
+        "trophic_level": 9,
+        "count": 956,
+        "growth_rate": 1.06
+    }
+]

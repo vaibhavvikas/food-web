@@ -1,0 +1,306 @@
+[
+    {
+        "source": "Shrimp",
+        "target": "Arapaima"
+    },
+    {
+        "source": "Detritus",
+        "target": "Arapaima"
+    },
+    {
+        "source": "Detritus",
+        "target": "Shrimp"
+    },
+    {
+        "source": "Detritus",
+        "target": "Pirahna"
+    },
+    {
+        "source": "Shrimp",
+        "target": "Pirahna"
+    },
+    {
+        "source": "Shrimp",
+        "target": "Arowana"
+    },
+    {
+        "source": "Shrimp",
+        "target": "Electric Eel"
+    },
+    {
+        "source": "Zooplankton",
+        "target": "Giant Catfish"
+    },
+    {
+        "source": "Zooplankton",
+        "target": "Neon Tetras"
+    },
+    {
+        "source": "Shrimp",
+        "target": "Neon Tetras"
+    },
+    {
+        "source": "Detritus",
+        "target": "Neon Tetras"
+    },
+    {
+        "source": "Sloth",
+        "target": "Anaconda"
+    },
+    {
+        "source": "Anaconda",
+        "target": "Caiman"
+    },
+    {
+        "source": "Giant Catfish",
+        "target": "Caiman"
+    },
+    {
+        "source": "Sloth",
+        "target": "Boa Constrictor"
+    },
+    {
+        "source": "Zooplankton",
+        "target": "Bushmaster"
+    },
+    {
+        "source": "Zooplankton",
+        "target": "Lancehead"
+    },
+    {
+        "source": "Shrimp",
+        "target": "Lancehead"
+    },
+    {
+        "source": "Giant Catfish",
+        "target": "Lancehead"
+    },
+    {
+        "source": "Kingfishers",
+        "target": "Emerald tree Boa"
+    },
+    {
+        "source": "Plants",
+        "target": "Hoatzin"
+    },
+    {
+        "source": "Plants",
+        "target": "Macaws"
+    },
+    {
+        "source": "Sloth",
+        "target": "Harpy Eagle"
+    },
+    {
+        "source": "Macaws",
+        "target": "Harpy Eagle"
+    },
+    {
+        "source": "Iguanas",
+        "target": "Harpy Eagle"
+    },
+    {
+        "source": "Plants",
+        "target": "Toucans"
+    },
+    {
+        "source": "Grasshopper",
+        "target": "Antbirds"
+    },
+    {
+        "source": "Insects",
+        "target": "Kingfishers"
+    },
+    {
+        "source": "Plants",
+        "target": "Parakeets"
+    },
+    {
+        "source": "Plants",
+        "target": "Flycatchers"
+    },
+    {
+        "source": "Plants",
+        "target": "Woodpeckers"
+    },
+    {
+        "source": "Insects",
+        "target": "Tanagers"
+    },
+    {
+        "source": "Insects",
+        "target": "Manakins"
+    },
+    {
+        "source": "Insects",
+        "target": "Guans"
+    },
+    {
+        "source": "Zooplankton",
+        "target": "Storks"
+    },
+    {
+        "source": "Plants",
+        "target": "Hummingbirds"
+    },
+    {
+        "source": "Insects",
+        "target": "Oropendola"
+    },
+    {
+        "source": "Sloth",
+        "target": "Jaguar"
+    },
+    {
+        "source": "Capuchin Monkey",
+        "target": "Jaguar"
+    },
+    {
+        "source": "Deer",
+        "target": "Jaguar"
+    },
+    {
+        "source": "Deer",
+        "target": "Puma"
+    },
+    {
+        "source": "Sloth",
+        "target": "Puma"
+    },
+    {
+        "source": "Capybara",
+        "target": "Puma"
+    },
+    {
+        "source": "Plants",
+        "target": "Capybara"
+    },
+    {
+        "source": "Plants",
+        "target": "Sloth"
+    },
+    {
+        "source": "Giant Catfish",
+        "target": "Giant River Otter"
+    },
+    {
+        "source": "Zooplankton",
+        "target": "Giant River Otter"
+    },
+    {
+        "source": "Shrimp",
+        "target": "Giant River Otter"
+    },
+    {
+        "source": "Insects",
+        "target": "Giant Anteater"
+    },
+    {
+        "source": "Insects",
+        "target": "Tamarins"
+    },
+    {
+        "source": "Plants",
+        "target": "Spider Monkey"
+    },
+    {
+        "source": "Plants",
+        "target": "Grasshopper"
+    },
+    {
+        "source": "Plants",
+        "target": "Wolly Monkey"
+    },
+    {
+        "source": "Insects",
+        "target": "Wolly Monkey"
+    },
+    {
+        "source": "Plants",
+        "target": "Capuchin Monkey"
+    },
+    {
+        "source": "Woodpeckers",
+        "target": "Capuchin Monkey"
+    },
+    {
+        "source": "Plants",
+        "target": "Howler Monkey"
+    },
+    {
+        "source": "Woodpeckers",
+        "target": "Howler Monkey"
+    },
+    {
+        "source": "Shrimp",
+        "target": "Amazon pink river Dolphin"
+    },
+    {
+        "source": "Giant Catfish",
+        "target": "Amazon pink river Dolphin"
+    },
+    {
+        "source": "Zooplankton",
+        "target": "Amazon pink river Dolphin"
+    },
+    {
+        "source": "Plants",
+        "target": "Tapir"
+    },
+    {
+        "source": "Insects",
+        "target": "Coatimundi"
+    },
+    {
+        "source": "Plants",
+        "target": "Paca"
+    },
+    {
+        "source": "Plants",
+        "target": "Agouti"
+    },
+    {
+        "source": "Insects",
+        "target": "Agouti"
+    },
+    {
+        "source": "Insects",
+        "target": "Kinkajou"
+    },
+    {
+        "source": "Plants",
+        "target": "Kinkajou"
+    },
+    {
+        "source": "Plants",
+        "target": "Green Iguanas"
+    },
+    {
+        "source": "Zooplankton",
+        "target": "Giant South American River Turtle"
+    },
+    {
+        "source": "Zooplankton",
+        "target": "Yellow-spotted River Turtle"
+    },
+    {
+        "source": "Detritus",
+        "target": "Yellow-spotted River Turtle"
+    },
+    {
+        "source": "Plants",
+        "target": "Iguanas"
+    },
+    {
+        "source": "Insects",
+        "target": "Poison Dart Frog"
+    },
+    {
+        "source": "Zooplankton",
+        "target": "Poison Dart Frog"
+    },
+    {
+        "source": "Plants",
+        "target": "Deer"
+    }
+]
