@@ -5,8 +5,8 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { ForceGraphComponent } from './components/force-graph/force-graph.component';
 import { FoodwebhomeComponent } from './components/foodwebhome/foodwebhome.component';
+import { ForceGraphComponent } from './components/force-graph/force-graph.component';
 import { MatButtonModule } from '@angular/material/button';
 import { MatCardModule } from '@angular/material/card';
 import { MatDialogModule } from '@angular/material/dialog';
@@ -17,14 +17,13 @@ import { MatSelectModule } from '@angular/material/select';
 import { MatSnackBarModule } from '@angular/material/snack-bar';
 import { MatStepperModule } from '@angular/material/stepper';
 import { HttpClientModule } from '@angular/common/http';
-import { MAT_FORM_FIELD_DEFAULT_OPTIONS } from '@angular/material/form-field';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    ForceGraphComponent,
-    FoodwebhomeComponent
+    FoodwebhomeComponent,
+    ForceGraphComponent
   ],
   imports: [
     BrowserModule,

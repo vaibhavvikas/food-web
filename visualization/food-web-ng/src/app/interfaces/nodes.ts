@@ -1,7 +1,7 @@
 export interface Nodes {
-    id: string,
-    trophic_level: Number,
-    count: Number,
-    growth_rate: Number
-    radius: Number
+    id: string;
+    trophic_level: number;
+    count: number;
+    growth_rate: number;
+    radius: number;
 }

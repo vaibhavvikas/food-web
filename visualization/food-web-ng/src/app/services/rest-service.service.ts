@@ -3,7 +3,7 @@ import { HttpClient, HttpErrorResponse, HttpHeaders, HttpResponse } from '@angul
 import { environment } from '../../environments/environment';
 import { Nodes } from '../interfaces/nodes';
 import { Connections } from '../interfaces/connections';
-import { throwError, observable, Observable } from 'rxjs';
+import { throwError, observable, Observable, ObservableInput } from 'rxjs';
 import { tap, retry, catchError } from 'rxjs/operators';
 
 @Injectable({
@@ -11,11 +11,11 @@ import { tap, retry, catchError } from 'rxjs/operators';
 })
 export class RestServiceService {
 
-  private serviceUrl : String;
+  private serviceUrl: string;
   private getNodesUrl = '/getnodes';
   private getConnectionsUrl = '/getconnections';
 
-  constructor(private http: HttpClient) { 
+  constructor(private http: HttpClient) {
     this.serviceUrl = environment.serviceUrl;
   }
 
@@ -24,7 +24,7 @@ export class RestServiceService {
     .pipe(
       retry(1),
       catchError(this.handleError)
-    )
+    );
   }
 
   getConnections(): Observable<Connections[]> {
@@ -35,7 +35,7 @@ export class RestServiceService {
     );
   }
 
-  private handleError(error: HttpErrorResponse) {
+  private handleError(error: HttpErrorResponse): ObservableInput<any> {
     if (error.error instanceof ErrorEvent) {
       console.error('An error occurred:', error.error.message);
     } else {

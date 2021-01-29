@@ -1,4 +1,4 @@
 export interface Connections {
-    source: string,
-    target: string
+    source: string;
+    target: string;
 }

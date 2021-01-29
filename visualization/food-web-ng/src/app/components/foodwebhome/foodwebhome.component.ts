@@ -18,27 +18,27 @@ export class FoodwebhomeComponent implements OnInit {
   selectedValue: string;
 
   constructor(private restService: RestServiceService, public dialog: MatDialog) { }
-  
+
   ngOnInit(): void {
     this.loadNodes();
     this.loadConnections();
   }
 
-  loadNodes() {
+  loadNodes(): void {
     this.restService.getNodes().subscribe(
       data => {
         this.nodes = data;
-      })
+      });
   }
 
-  loadConnections() {
+  loadConnections(): void {
     this.restService.getConnections().subscribe(
       data => {
         this.links = data;
-      })
+      });
   }
 
-  openDialog() {
+  openDialog(): void {
     const dialogRef = this.dialog.open(ForceGraphComponent, {
       data: { nodes: this.nodes, links: this.links}
     });
