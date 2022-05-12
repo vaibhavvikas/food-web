@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+![GitHub top language](https://img.shields.io/github/languages/top/vaibhavvikas/food-web)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vaibhavvikas/food-web)
+![GitHub forks](https://img.shields.io/github/forks/vaibhavvikas/food-web)
+![GitHub stars](https://img.shields.io/github/stars/vaibhavvikas/food-web)
 
-You can use the [editor on GitHub](https://github.com/vaibhavvikas/food-web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Food Web
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In an ecosystem there is a balance between prey, and predators. Effect in any of the species may result in a negative effect to that ecosystem. These effects may arise due to various natural causes such as disaster or forest fires. The idea was to take a note of a ecosystem and keep studying its species details. And give an alert in the case a particular species becomes too low in count and also tell which species it is affecting.
 
-### Markdown
+> Im currently working on a better visualization using d3.js and Angular alongwith the backend via Python Flask. It is inside Visualization Folder
+> https://github.com/vaibhavvikas/FoodWeb/tree/master/visualization
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Note: ##
 
-```markdown
-Syntax highlighted code block
+This is still in progress application. Rather then a Tkinter UI, I tried to make an angular application so it connects to python flask app to get the data from the json and we can see the network graph in an UI with Angular
 
-# Header 1
-## Header 2
-### Header 3
+``` I will work on the project in the future when I will get time. ```
 
-- Bulleted
-- List
+Screenshot of the graph. Made using **d3.js**
 
-1. Numbered
-2. List
+> ![foodweb](https://user-images.githubusercontent.com/28614457/106237539-0c068d00-6225-11eb-8403-a277ba6cb879.jpg)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vaibhavvikas/food-web/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
